@@ -10,25 +10,18 @@
   "dir": "auto",
   "theme_color": "#000000",
   "background_color": "#ffffff",
-"icons": [
-  {
-    "src": "https://bossmotto.github.io/bossmotto-pwa/icon-192x192.png",
-    "sizes": "192x192",
-    "type": "image/png",
-    "purpose": "any maskable"
-  },
-  {
-    "src": "https://bossmotto.github.io/bossmotto-pwa/icon-512x512.png",
-    "sizes": "512x512",
-    "type": "image/png",
-    "purpose": "any maskable"
-  }
-]
-  {
-    "src": "https://bossmotto.github.io/bossmotto-pwa/icon-512x512.png",
-    "sizes": "512x512",
-    "type": "image/png",
-    "purpose": "any maskable"
-  }
-]
+  "icons": [
+    {
+      "src": "https://bossmotto.github.io/bossmotto-pwa/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://bossmotto.github.io/bossmotto-pwa/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
 }
